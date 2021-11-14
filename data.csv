@@ -1,0 +1,51 @@
+﻿Location;Team;Type of collaboration;design;ideation;modeling;reflection;project management;physical task;parallel experience
+Remote;yes;remote collaboration (none design): remote expert + local worker;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote expert + local worker;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote guest +  local host ;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;One-way, video mediated remote collaboration (none design): remote helper + local worker;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote helper + local worker;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote helper + local worker;no;No ideation ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (parallel experience): remote user + local user;no;No ideation ideation;No modeling;no;no;yes;yes
+Remote;yes;remote collaboration (design): remote user + local user;yes;No ideation;With modeling;no;no;yes;no
+Co-located;yes;co-located collaborative spatial design exploration: designers;yes;With ideation;With modeling;no;no;yes;no
+Co-located;yes;co-located collaboration (design process);yes;No ideation;No modeling;yes;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;No ideation;With modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote helper + local worker ;no;No ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration: designers + developers;yes;No ideation;With modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote expert + local worker;no;No ideation;No modeling;no;no;yes;yes
+unknown;no;not indicate, potentially remote collaboration;yes;No ideation;With modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote helper + local worker;no;No ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote helper + local user;no;No ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (parallel experience): remote user + local user;no;No ideation;No modeling;no;no;yes;yes
+Remote;yes;remote collaboration (none design): Body + Ghost;no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+Remote;yes;remote teaching of physical task: learner + instructor;no;No ideation;No modeling;no;no;yes;yes
+Remote;yes;remote collaboration (none design): remote helper + local worker;no;No ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (none design): remote guest +  local host ;no;No ideation;No modeling;no;no;yes;no
+Remote;yes;remote collaboration (parallel experience): remote user + local user;no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;No modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote expert + local worker;no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+Remote;yes;object-focused remote collaboration: tracking site (TS) + manipulator site (MS);no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+both;yes;collaborative design team;yes;No ideation;No modeling;no;yes;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;No modeling;no;no;no;no
+both;yes;collaborative design team;yes;No ideation;No modeling;yes;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;No ideation;With modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote expert + local novice;no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;No modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote helper + local worker;no;No ideation;No modeling;no;no;yes;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;With modeling;no;no;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;No modeling;no;no;no;no
+Remote;yes;remote collaboration (none design): remote expert + local worker;no;No ideation;No modeling;no;no;yes;no
+both;yes;"1. remote collaboration (none design): remote expert + local worker
+2. remote collaboration (parallel experience): remote user + local user";no;No ideation;No modeling;no;no;yes;yes
+unknown;no;not indicate, potentially remote collaboration;yes;No ideation;No modeling;no;yes;no;no
+unknown;no;not indicate, potentially remote collaboration;yes;With ideation;No modeling;no;no;no;no
+Remote;yes;"remote collaboration (parallel experience): remote user + local user
+remote collaboration (none design): remote expert + local worker";yes;With ideation;No modeling;no;no;yes;no
